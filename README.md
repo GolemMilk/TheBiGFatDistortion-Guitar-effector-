@@ -3,6 +3,7 @@ We designed a negative feedback amplifier circuit consisting of two transistors.
 ![IMG_0651_BFDimage_jpeg](https://github.com/user-attachments/assets/dbf08f46-3421-4dfe-8f6b-2936cf55e5ae)
 ![BFD circuit＿PNG](https://github.com/user-attachments/assets/6c77fae7-267a-4626-b5da-179bfe3b6a60)
 <img width="432" alt="BFD＿PCB_PNG" src="https://github.com/user-attachments/assets/481811d3-e4df-4e07-9c29-f41d96a4e6fc" />
+![IMG_0685](https://github.com/user-attachments/assets/9f4675ae-e6fe-4b4b-9a20-3f0da05e9130)
 
 For some reason, IC designs are the mainstream for distortion circuits. I don't know why, but I thought that it could be built with transistors using a very simple design as shown in the attached image, so I created an organic distortion circuit.
 
