@@ -15,8 +15,10 @@ If the volume decreases quickly when you lower the Vol knob, adjust it with Trim
 Jack, DC terminal, 3PDT, chassis... It took me quite a while to find what I liked. The grip on the sole of the foot is made of a special material called Hanenite, which is very nice.
 
 We have adopted a unique mechanism for wiring. I tried to minimize the noise by using FTP (Foiled Twisted Pair) cables, and this was a really great noise reduction.
+In addition to the twisted pair cable treatment, the idea of ​​using metal foil for noise reduction and butyl rubber tape with a fused outer shell was a complete success.
 
 Please use the center negative DC9V power supply used for general guitar effectors. An isolated type or rechargeable type is useful for noise suppression.It is not designed with low voltage protection, so if you are concerned, please insert a 9V three-terminal regulator or a 9.1V Zener diode in front of the LED anode.
 
 Tr1 and Tr2 should work if they have a complementary relationship, but E, B, and C start from terminal 1.
 
+No compromises have been made in the application of dozens of layers of lacquer pigments. It is no exaggeration to say that the texture created by the exquisite unevenness created by the many layers is a result of craftsmanship...
